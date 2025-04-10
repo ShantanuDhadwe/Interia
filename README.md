@@ -4,8 +4,9 @@
 
 This repository contains automated workflows for **Interia**, a luxury interior design firm. The automation is built using [n8n](https://n8n.io) and integrates with [Vapi.ai](https://vapi.ai) and Airtable to automate outbound voice calls, qualify leads, and log call results.
 
-**Live Repository:** [github.com/ShantanuDhadwe/Interia](https://github.com/ShantanuDhadwe/Interia)
+**Live Repository:** [github.com/ShantanuDhadwe/Interia](https://github.com/ShantanuDhadwe/Interia
 
+**Youtube Link:** [Youtube](https://youtu.be/KmNxSTa_690?si=erIuIZ4RK276pOnN)
 ---
 
 ## 📦 Overview
